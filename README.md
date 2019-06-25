@@ -21,3 +21,8 @@
 
 ## ゲーム内容
 3Dで岩・宝箱・敵がいる中、必要な宝箱をとっていかにはやくゴールできるかを競うゲーム
+
+## 参考資料
+
+コード類が置いてある　http://teriyaki398.hatenablog.com/entry/2018/10/30/111243
+完成イメージ　https://unityroom.com/games/escape_maze_room
