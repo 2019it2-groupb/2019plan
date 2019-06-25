@@ -1,0 +1,35 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+using UnityEngine.SceneManagement;
+
+public class damage : MonoBehaviour
+{
+    private int damageCount = 0;
+    void Start()
+    {
+
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+
+
+        {
+
+            // もしもぶつかった相手に「enemy」という「Tag」が付いていたならば（条件）
+            if (other.CompareTag("enemy"))
+            {
+                // 敵に当たるごとに「damage」を１ずつ減らす。
+                damageCount -= 1;
+
+                // もしも「damge」が3になったら（条件）
+                if (damageCount == -3)
+                    // GameOverシーンに遷移する。
+                    SceneManager.LoadScene("GameOver");
+                // ぶつかった相手を破壊する（なし）
+            }
+        }
+    }
+}
