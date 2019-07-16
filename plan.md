@@ -10,6 +10,7 @@
 
 ![img10](https://github.com/2019it2-groupb/2019plan/blob/master/photo/%E5%AE%9D%E7%AE%B1.png)
 ![img11](https://github.com/2019it2-groupb/2019plan/blob/master/photo/%E3%81%84%E3%82%8F.png)
+![img5464433](https://github.com/2019it2-groupb/2019plan/blob/master/photo/%E9%9B%AA%E3%81%A0%E3%82%8B%E3%81%BE.png)
 ![img2](https://github.com/2019it2-groupb/2019plan/blob/master/%E3%81%84%E3%81%A1%E3%81%AB%E3%82%93%E3%81%97%E3%82%87%E3%81%861.png)
 
 ![img3](https://github.com/2019it2-groupb/2019plan/blob/master/%E3%81%84%E3%81%A1%E3%81%AB%E3%82%93%E3%81%97%E3%82%87%E3%81%862.png)
