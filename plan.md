@@ -1,11 +1,4 @@
-
-
-
-![img4](https://github.com/2019it2-groupb/2019plan/blob/master/photo/unity%E7%94%BB%E5%83%8F1.png)
-
-![img5](https://github.com/2019it2-groupb/2019plan/blob/master/photo/unity%E7%94%BB%E5%83%8F2.png)
-
-![img6](https://github.com/2019it2-groupb/2019plan/blob/master/photo/unity%E7%94%BB%E5%83%8F3.png)
+![img56](https://github.com/2019it2-groupb/2019plan/blob/master/photo/%E3%81%8C%E3%81%84%E3%82%88%E3%81%86.png)
 
 ![img7](https://github.com/2019it2-groupb/2019plan/blob/master/photo/%E3%81%82%EF%BD%91%EF%BD%97%E3%81%9B%EF%BD%84%EF%BD%92%EF%BD%86%EF%BD%94%EF%BD%87%EF%BD%99%E3%81%B5%E3%81%98%E3%81%93%EF%BD%8C%EF%BD%90%EF%BC%9B.png)
 
@@ -18,3 +11,5 @@
 ![img2](https://github.com/2019it2-groupb/2019plan/blob/master/%E3%81%84%E3%81%A1%E3%81%AB%E3%82%93%E3%81%97%E3%82%87%E3%81%861.png)
 
 ![img3](https://github.com/2019it2-groupb/2019plan/blob/master/%E3%81%84%E3%81%A1%E3%81%AB%E3%82%93%E3%81%97%E3%82%87%E3%81%862.png)
+![img168](https://github.com/2019it2-groupb/2019plan/blob/master/photo/script1.png)
+![img68](https://github.com/2019it2-groupb/2019plan/blob/master/photo/script2.png)
